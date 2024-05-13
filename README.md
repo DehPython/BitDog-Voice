@@ -4,5 +4,5 @@ Tentando colocar voz no BitDog
 
 
 Classificação de Locutor: https://huggingface.co/nvidia/speakerverification_en_titanet_large
-
+ChatGPT BitDog: https://chatgpt.com/g/g-fTMOtaUbe-bit-dog 
 
